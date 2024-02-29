@@ -18,3 +18,8 @@
     * [操作系统](/operating-system/)
     * [编译原理](/compiler-principles/)
 * [面试](/interview/)
+* 友情链接
+  * [Github](https://github.com/PattaoChips/wikicode.git)
+  * [CSDN](https://blog.csdn.net/weixin_42564420/)
+  * [博客园](https://www.cnblogs.com/kitten6633)
+  * [掘金](https://juejin.cn/user/2379761349301415)

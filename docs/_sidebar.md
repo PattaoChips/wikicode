@@ -1,6 +1,3 @@
-* **Introduction**
-    * [简介](README.md)
-    * [博客语法](syntax.md)
 * **css**
     * [面试题整理](/css/interview.md)
 * **JavaScript**
