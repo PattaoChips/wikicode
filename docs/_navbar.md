@@ -1,7 +1,20 @@
-<!-- _navbar.md -->
-* 友情链接
-  * [Github](https://github.com/PattaoChips)
-  * [Giee](https://gitee.com/coderspring/docsify-blog.git)
-  * [CSDN](https://blog.csdn.net/weixin_42564420/)
-  * [博客园](https://www.cnblogs.com/kitten6633)
-  * [掘金](https://juejin.cn/user/2379761349301415)
+* [首页](/)
+* 前端基础
+    * [CSS](/) 
+    * [Javascript](/js/guidebook/)
+    * [ES6](/)
+    * [typescript](/typescript/guidebook/)
+* 前端进阶
+    * [vue](/)
+    * [react](/)
+    * [webpack](/)
+    * [浏览器](/)
+    * [前端安全](/)
+    * [性能优化](/)
+* [算法](/dataStructure-and-algorithm/)
+* [python](/python/guidebook/)
+* 计算机基础
+    * [计算机网络](/computer-network/notes/)
+    * [操作系统](/operating-system/)
+    * [编译原理](/compiler-principles/)
+* [面试](/interview/)
