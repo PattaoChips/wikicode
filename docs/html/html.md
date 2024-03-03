@@ -54,4 +54,4 @@ HTML (HyperText Markup Language) 不是一门编程语言，而是一种用来�
     </script>
 ```
 
-![](E:\docsify-plus\docs\html\image\1709477149538.png)
+![](./image/1709477149538.png)
